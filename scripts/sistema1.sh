@@ -2,7 +2,7 @@
 
 #estrutura graylog
 sistema="[SISTEMA1] "
-graylog_server="172.17.1.245 12201"
+graylog_server="172.17.1.245 1514"
 
 informe="Tabela1 acessada por usuario1 - `date +%H:%M:%S`"
 message=$sistema$informe

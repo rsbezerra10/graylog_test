@@ -32,7 +32,7 @@ services:
       # CHANGE ME (must be at least 16 characters)!
       #- GRAYLOG_PASSWORD_SECRET=somepasswordpepper
 #      - GRAYLOG_PASSWORD_SECRET=testetestetesteteste
-      # Password: admin
+      # Password: teste2
       - GRAYLOG_ROOT_PASSWORD_SHA2=f91a799a01ebac97c8995f50381b5be0d43ca7eb0c6a6c6bc07603c5a922d1fa
       - GRAYLOG_HTTP_EXTERNAL_URI=http://172.17.1.245:9000/
     links:
